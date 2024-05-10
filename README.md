@@ -61,6 +61,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 If you have any questions or feedback, feel free to reach out to me at niket.dewaangan11@gmail.com.
 
----
-
-*Customize this README according to your project's specifics.*
